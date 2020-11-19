@@ -1,0 +1,24 @@
+{
+  "name": "jestpractice",
+  "version": "1.0.0",
+  "description": "Jest practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinandros/jestpractice.git"
+  },
+  "author": "Kevin Alvarado V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinandros/jestpractice/issues"
+  },
+  "homepage": "https://github.com/vinandros/jestpractice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.3.0"
+  }
+}
